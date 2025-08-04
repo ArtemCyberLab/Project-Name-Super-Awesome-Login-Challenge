@@ -15,9 +15,7 @@ Version control analysis using Git
 Reverse engineering and code auditing
 
 Code Excerpt:
-html
-Copy
-Edit
+
 <script>
   function login() {
     let form = document.getElementById("login-form");
